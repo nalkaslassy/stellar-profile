@@ -3,18 +3,18 @@
 <rect x="1" y="1" width="848" height="118" fill="none" stroke="#7c3aed" stroke-width="0.5" rx="5" opacity="0.4"/>
 <text x="32" y="24" font-family="monospace" font-size="9" fill="#9f7edd" letter-spacing="3" opacity="0.6">MISSION TELEMETRY</text>
 <line x1="32" y1="31" x2="818" y2="31" stroke="#7c3aed" stroke-width="0.5" opacity="0.25"/>
-<text x="85.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">61</text>
+<text x="85.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">1.2k</text>
 <text x="85.0" y="101" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" letter-spacing="2" opacity="0.8">COMMITS</text>
 <line x1="170" y1="38" x2="170" y2="108" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
-<text x="255.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">9</text>
+<text x="255.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">342</text>
 <text x="255.0" y="101" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" letter-spacing="2" opacity="0.8">STARS</text>
 <line x1="340" y1="38" x2="340" y2="108" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
-<text x="425.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">1</text>
+<text x="425.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">89</text>
 <text x="425.0" y="101" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" letter-spacing="2" opacity="0.8">PULL REQUESTS</text>
 <line x1="510" y1="38" x2="510" y2="108" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
-<text x="595.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">0</text>
+<text x="595.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">14</text>
 <text x="595.0" y="101" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" letter-spacing="2" opacity="0.8">ISSUES</text>
 <line x1="680" y1="38" x2="680" y2="108" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
-<text x="765.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">20</text>
+<text x="765.0" y="80" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#22d3ee">28</text>
 <text x="765.0" y="101" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" letter-spacing="2" opacity="0.8">REPOS</text>
 </svg>

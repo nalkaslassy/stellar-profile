@@ -9,30 +9,29 @@
 <rect x="1" y="1" width="848" height="193" fill="none" stroke="#7c3aed" stroke-width="0.5" rx="5" opacity="0.4"/>
 <text x="32" y="24" font-family="monospace" font-size="9" fill="#9f7edd" letter-spacing="3" opacity="0.6">FEATURED SYSTEMS</text>
 <line x1="32" y1="31" x2="818" y2="31" stroke="#7c3aed" stroke-width="0.5" opacity="0.25"/>
-<rect x="28.0" y="40" width="258.0" height="140" rx="4" fill="#0d0d20" stroke="#fbbf24" stroke-width="0.5" opacity="0.55"/>
-<circle class="pd" cx="157.0" cy="62.0" r="4" fill="#fbbf24" style="animation-delay:0s"/>
-<text x="157.0" y="92" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#e2d9f3">agentic-event-driven-pipeline</text>
-<text x="157.0" y="109" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" opacity="0.6">nalkaslassy/agentic-event-driven-pipeline</text>
-<text x="157.0" y="130" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">AI agent-driven event processi</text>
-<text x="157.0" y="144" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">ng pipeline.</text>
-<rect x="116.5" y="158" width="81" height="15" rx="7" fill="#fbbf24" fill-opacity="0.1" stroke="#fbbf24" stroke-width="0.5"/>
-<text x="157.0" y="169" text-anchor="middle" font-family="monospace" font-size="9" fill="#fbbf24">Frameworks</text>
+<rect x="28.0" y="40" width="258.0" height="140" rx="4" fill="#0d0d20" stroke="#22d3ee" stroke-width="0.5" opacity="0.55"/>
+<circle class="pd" cx="157.0" cy="62.0" r="4" fill="#22d3ee" style="animation-delay:0s"/>
+<text x="157.0" y="92" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#e2d9f3">project-alpha</text>
+<text x="157.0" y="109" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" opacity="0.6">demo-user/project-alpha</text>
+<text x="157.0" y="130" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">An AI-powered tool for data pi</text>
+<text x="157.0" y="144" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">pelines.</text>
+<rect x="119.8" y="158" width="74" height="15" rx="7" fill="#22d3ee" fill-opacity="0.1" stroke="#22d3ee" stroke-width="0.5"/>
+<text x="157.0" y="169" text-anchor="middle" font-family="monospace" font-size="9" fill="#22d3ee">Languages</text>
 <rect x="296.0" y="40" width="258.0" height="140" rx="4" fill="#0d0d20" stroke="#a78bfa" stroke-width="0.5" opacity="0.55"/>
 <circle class="pd" cx="425.0" cy="62.0" r="4" fill="#a78bfa" style="animation-delay:1s"/>
-<text x="425.0" y="92" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#e2d9f3">AWS-Sagemaker-CustomerChurn-Pipeline</text>
-<text x="425.0" y="109" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" opacity="0.6">nalkaslassy/AWS-Sagemaker-CustomerChurn-Pipeline</text>
-<text x="425.0" y="130" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">Customer churn ML pipeline on </text>
-<text x="425.0" y="144" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">AWS SageMaker.</text>
+<text x="425.0" y="92" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#e2d9f3">project-beta</text>
+<text x="425.0" y="109" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" opacity="0.6">demo-user/project-beta</text>
+<text x="425.0" y="130" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">Cloud-native microservices pla</text>
+<text x="425.0" y="144" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">tform.</text>
 <rect x="374.8" y="158" width="100" height="15" rx="7" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-width="0.5"/>
 <text x="425.0" y="169" text-anchor="middle" font-family="monospace" font-size="9" fill="#a78bfa">Cloud &amp; Infra</text>
-<rect x="564.0" y="40" width="258.0" height="140" rx="4" fill="#0d0d20" stroke="#22d3ee" stroke-width="0.5" opacity="0.55"/>
-<circle class="pd" cx="693.0" cy="62.0" r="4" fill="#22d3ee" style="animation-delay:2s"/>
-<text x="693.0" y="92" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#e2d9f3">RetailETLPipeline</text>
-<text x="693.0" y="109" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" opacity="0.6">nalkaslassy/RetailETLPipeline</text>
-<text x="693.0" y="130" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">Retail data ETL pipeline with </text>
-<text x="693.0" y="144" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">Python and PySpark.</text>
-<rect x="655.8" y="158" width="74" height="15" rx="7" fill="#22d3ee" fill-opacity="0.1" stroke="#22d3ee" stroke-width="0.5"/>
-<text x="693.0" y="169" text-anchor="middle" font-family="monospace" font-size="9" fill="#22d3ee">Languages</text>
+<rect x="564.0" y="40" width="258.0" height="140" rx="4" fill="#0d0d20" stroke="#fbbf24" stroke-width="0.5" opacity="0.55"/>
+<circle class="pd" cx="693.0" cy="62.0" r="4" fill="#fbbf24" style="animation-delay:2s"/>
+<text x="693.0" y="92" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#e2d9f3">project-gamma</text>
+<text x="693.0" y="109" text-anchor="middle" font-family="monospace" font-size="9" fill="#9f7edd" opacity="0.6">demo-user/project-gamma</text>
+<text x="693.0" y="130" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">Real-time analytics dashboard.</text>
+<rect x="652.5" y="158" width="81" height="15" rx="7" fill="#fbbf24" fill-opacity="0.1" stroke="#fbbf24" stroke-width="0.5"/>
+<text x="693.0" y="169" text-anchor="middle" font-family="monospace" font-size="9" fill="#fbbf24">Frameworks</text>
 <line x1="157.0" y1="62.0" x2="425.0" y2="62.0" stroke="#7c3aed" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.3"/>
 <line x1="425.0" y1="62.0" x2="693.0" y2="62.0" stroke="#7c3aed" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.3"/>
 </svg>
