@@ -11,30 +11,22 @@
 <text x="545" y="24" font-family="monospace" font-size="9" fill="#9f7edd" letter-spacing="3" opacity="0.6">FOCUS SECTORS</text>
 <line x1="32" y1="31" x2="818" y2="31" stroke="#7c3aed" stroke-width="0.5" opacity="0.25"/>
 <line x1="515" y1="31" x2="515" y2="173" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
-<text x="32" y="53" font-family="monospace" font-size="11" fill="#e2d9f3">Python</text>
+<text x="32" y="60" font-family="monospace" font-size="11" fill="#e2d9f3">Python</text>
 <rect x="122" y="42" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
-<rect x="122" y="42" width="284" height="8" rx="2" fill="#3572A5" opacity="0.75"/>
-<text x="475" y="53" font-family="monospace" font-size="10" fill="#9f7edd">45.2%</text>
-<text x="32" y="75" font-family="monospace" font-size="11" fill="#e2d9f3">TypeScript</text>
-<rect x="122" y="64" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
-<rect x="122" y="64" width="176" height="8" rx="2" fill="#2b7489" opacity="0.75"/>
-<text x="475" y="75" font-family="monospace" font-size="10" fill="#9f7edd">28.1%</text>
-<text x="32" y="98" font-family="monospace" font-size="11" fill="#e2d9f3">Rust</text>
-<rect x="122" y="87" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
-<rect x="122" y="87" width="78" height="8" rx="2" fill="#dea584" opacity="0.75"/>
-<text x="475" y="98" font-family="monospace" font-size="10" fill="#9f7edd">12.4%</text>
-<text x="32" y="120" font-family="monospace" font-size="11" fill="#e2d9f3">SQL</text>
+<rect x="122" y="42" width="345" height="8" rx="2" fill="#3572A5" opacity="0.75"/>
+<text x="475" y="60" font-family="monospace" font-size="10" fill="#9f7edd">74.1%</text>
+<text x="32" y="94" font-family="monospace" font-size="11" fill="#e2d9f3">JavaScript</text>
+<rect x="122" y="76" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
+<rect x="122" y="76" width="58" height="8" rx="2" fill="#f1e05a" opacity="0.75"/>
+<text x="475" y="94" font-family="monospace" font-size="10" fill="#9f7edd">9.3%</text>
+<text x="32" y="127" font-family="monospace" font-size="11" fill="#e2d9f3">Jupyter Notebook</text>
 <rect x="122" y="110" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
-<rect x="122" y="110" width="49" height="8" rx="2" fill="#e38c00" opacity="0.75"/>
-<text x="475" y="120" font-family="monospace" font-size="10" fill="#9f7edd">7.8%</text>
-<text x="32" y="143" font-family="monospace" font-size="11" fill="#e2d9f3">Shell</text>
-<rect x="122" y="132" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
-<rect x="122" y="132" width="26" height="8" rx="2" fill="#89e051" opacity="0.75"/>
-<text x="475" y="143" font-family="monospace" font-size="10" fill="#9f7edd">4.1%</text>
-<text x="32" y="165" font-family="monospace" font-size="11" fill="#e2d9f3">Go</text>
-<rect x="122" y="154" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
-<rect x="122" y="154" width="15" height="8" rx="2" fill="#00ADD8" opacity="0.75"/>
-<text x="475" y="165" font-family="monospace" font-size="10" fill="#9f7edd">2.4%</text>
+<rect x="122" y="110" width="12" height="8" rx="2" fill="#888888" opacity="0.75"/>
+<text x="475" y="127" font-family="monospace" font-size="10" fill="#9f7edd">1.9%</text>
+<text x="32" y="161" font-family="monospace" font-size="11" fill="#e2d9f3">Shell</text>
+<rect x="122" y="143" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
+<rect x="122" y="143" width="1" height="8" rx="2" fill="#89e051" opacity="0.75"/>
+<text x="475" y="161" font-family="monospace" font-size="10" fill="#9f7edd">0.2%</text>
 <circle cx="670" cy="108" r="18" fill="none" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
 <circle cx="670" cy="108" r="37" fill="none" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
 <circle cx="670" cy="108" r="56" fill="none" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>

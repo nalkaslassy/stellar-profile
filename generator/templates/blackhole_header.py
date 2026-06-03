@@ -1,3 +1,4 @@
+import html
 import math
 import random
 
@@ -108,11 +109,11 @@ def render(cfg: dict, stats: dict) -> str:
 
     for item in orbit_items:
         svg += f'<circle cx="{item["x"]:.1f}" cy="{item["y"]:.1f}" r="3.5" fill="{item["color"]}" opacity="0.9"/>\n'
-        svg += f'<text x="{item["lx"]:.1f}" y="{item["ly"]:.1f}" text-anchor="{item["anchor"]}" font-family="monospace" font-size="10" fill="{item["color"]}">{item["label"]}</text>\n'
+        svg += f'<text x="{item["lx"]:.1f}" y="{item["ly"]:.1f}" text-anchor="{item["anchor"]}" font-family="monospace" font-size="10" fill="{item["color"]}">{html.escape(item["label"])}</text>\n'
 
-    name = p.get("name", cfg.get("username", ""))
-    title = p.get("title", "")
-    bio = p.get("bio", "")
+    name = html.escape(p.get("name", cfg.get("username", "")))
+    title = html.escape(p.get("title", ""))
+    bio = html.escape(p.get("bio", ""))
 
     svg += f'''<text x="{cx}" y="32" text-anchor="middle" font-family="monospace" font-size="19" font-weight="bold" fill="{txt1}" letter-spacing="3">{name}</text>
 <text x="{cx}" y="54" text-anchor="middle" font-family="monospace" font-size="11" fill="{txt2}" letter-spacing="2">{title}</text>

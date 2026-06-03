@@ -24,15 +24,15 @@ orbit_arms:
     items: ["FastAPI", "Claude API", "FastMCP", "RAG"]
 
 projects:
-  - repo: "nalkaslassy/coverage-mcp"
-    description: "MCP server for AI-powered code coverage analysis."
+  - repo: "nalkaslassy/agentic-event-driven-pipeline"
+    description: "AI agent-driven event processing pipeline."
     arm: 2
-  - repo: "nalkaslassy/stellar-profile"
-    description: "GitHub profile reimagined as a black hole."
-    arm: 0
-  - repo: "nalkaslassy/career-os"
-    description: "AI-driven career management operating system."
+  - repo: "nalkaslassy/AWS-Sagemaker-CustomerChurn-Pipeline"
+    description: "Customer churn ML pipeline on AWS SageMaker."
     arm: 1
+  - repo: "nalkaslassy/RetailETLPipeline"
+    description: "Retail data ETL pipeline with Python and PySpark."
+    arm: 0
 
 stats:
   metrics: [commits, stars, prs, issues, repos]
