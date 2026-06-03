@@ -41,7 +41,7 @@
 <line x1="670" y1="108" x2="670.0" y2="52.0" stroke="#7c3aed" stroke-width="0.5" opacity="0.18"/>
 <text x="670.0" y="40.0" text-anchor="middle" font-family="monospace" font-size="9" fill="#22d3ee" opacity="0.9">Languages</text>
 <line x1="670" y1="108" x2="718.5" y2="136.0" stroke="#7c3aed" stroke-width="0.5" opacity="0.18"/>
-<text x="732.4" y="148.0" text-anchor="middle" font-family="monospace" font-size="9" fill="#a78bfa" opacity="0.9">Cloud & Infra</text>
+<text x="732.4" y="148.0" text-anchor="middle" font-family="monospace" font-size="9" fill="#a78bfa" opacity="0.9">Cloud &amp; Infra</text>
 <line x1="670" y1="108" x2="621.5" y2="136.0" stroke="#7c3aed" stroke-width="0.5" opacity="0.18"/>
 <text x="607.6" y="148.0" text-anchor="middle" font-family="monospace" font-size="9" fill="#fbbf24" opacity="0.9">Frameworks</text>
 <polygon points="670.0,60.4 703.9,127.6 626.4,133.2" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-width="0.8" opacity="0.45"/>

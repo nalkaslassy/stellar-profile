@@ -1,3 +1,4 @@
+import html
 import math
 
 
@@ -68,7 +69,7 @@ def render(cfg: dict, stats: dict) -> str:
         svg += f'<line x1="{chart_cx}" y1="{chart_cy}" x2="{sx:.1f}" y2="{sy:.1f}" stroke="{acc}" stroke-width="0.5" opacity="0.18"/>\n'
         tx = chart_cx + math.cos(angle) * (chart_r + 16)
         ty = chart_cy + math.sin(angle) * (chart_r + 16)
-        svg += f'<text x="{tx:.1f}" y="{ty + 4:.1f}" text-anchor="middle" font-family="monospace" font-size="9" fill="{color}" opacity="0.9">{sector}</text>\n'
+        svg += f'<text x="{tx:.1f}" y="{ty + 4:.1f}" text-anchor="middle" font-family="monospace" font-size="9" fill="{color}" opacity="0.9">{html.escape(sector)}</text>\n'
 
     if n >= 3:
         pts = []

@@ -1,0 +1,42 @@
+username: nalkaslassy
+
+profile:
+  name: "Nadav Alkaslassy"
+  title: "AI Engineer & Data Engineering"
+  bio: "Building AI tools that matter."
+  location: "Columbus, OH"
+  company: "@Infosys"
+
+social:
+  email: "nalkaslassy@gmail.com"
+  linkedin: "nadav-alkaslassy"
+  website: "https://github.com/nalkaslassy"
+
+orbit_arms:
+  - name: "Languages"
+    color: "cyan"
+    items: ["Python", "PySpark", "SQL", "TypeScript"]
+  - name: "Cloud & Infra"
+    color: "violet"
+    items: ["AWS", "Docker", "Glue", "Athena"]
+  - name: "Frameworks"
+    color: "amber"
+    items: ["FastAPI", "Claude API", "FastMCP", "RAG"]
+
+projects:
+  - repo: "nalkaslassy/coverage-mcp"
+    description: "MCP server for AI-powered code coverage analysis."
+    arm: 2
+  - repo: "nalkaslassy/stellar-profile"
+    description: "GitHub profile reimagined as a black hole."
+    arm: 0
+  - repo: "nalkaslassy/career-os"
+    description: "AI-driven career management operating system."
+    arm: 1
+
+stats:
+  metrics: [commits, stars, prs, issues, repos]
+
+languages:
+  exclude: ["HTML", "CSS", "Makefile", "Dockerfile"]
+  max_display: 7

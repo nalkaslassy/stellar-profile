@@ -1,3 +1,4 @@
+import html
 import math
 
 
@@ -60,15 +61,15 @@ def render(cfg: dict, stats: dict) -> str:
 
         svg += f'''<rect x="{x:.1f}" y="{y:.0f}" width="{card_w:.1f}" height="140" rx="4" fill="#0d0d20" stroke="{color}" stroke-width="0.5" opacity="0.55"/>
 <circle class="pd" cx="{dot_x:.1f}" cy="{dot_y:.1f}" r="4" fill="{color}" style="animation-delay:{i}s"/>
-<text x="{dot_x:.1f}" y="{y+52:.0f}" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="{txt1}">{name}</text>
-<text x="{dot_x:.1f}" y="{y+69:.0f}" text-anchor="middle" font-family="monospace" font-size="9" fill="{txt2}" opacity="0.6">{repo}</text>
-<text x="{dot_x:.1f}" y="{y+90:.0f}" text-anchor="middle" font-family="monospace" font-size="10" fill="{txt2}">{desc_line1}</text>
+<text x="{dot_x:.1f}" y="{y+52:.0f}" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="{txt1}">{html.escape(name)}</text>
+<text x="{dot_x:.1f}" y="{y+69:.0f}" text-anchor="middle" font-family="monospace" font-size="9" fill="{txt2}" opacity="0.6">{html.escape(repo)}</text>
+<text x="{dot_x:.1f}" y="{y+90:.0f}" text-anchor="middle" font-family="monospace" font-size="10" fill="{txt2}">{html.escape(desc_line1)}</text>
 '''
         if desc_line2:
-            svg += f'<text x="{dot_x:.1f}" y="{y+104:.0f}" text-anchor="middle" font-family="monospace" font-size="10" fill="{txt2}">{desc_line2}</text>\n'
+            svg += f'<text x="{dot_x:.1f}" y="{y+104:.0f}" text-anchor="middle" font-family="monospace" font-size="10" fill="{txt2}">{html.escape(desc_line2)}</text>\n'
 
         svg += f'''<rect x="{pill_x:.1f}" y="{y+118:.0f}" width="{pill_w:.0f}" height="15" rx="7" fill="{color}" fill-opacity="0.1" stroke="{color}" stroke-width="0.5"/>
-<text x="{dot_x:.1f}" y="{y+129:.0f}" text-anchor="middle" font-family="monospace" font-size="9" fill="{color}">{arm_label}</text>
+<text x="{dot_x:.1f}" y="{y+129:.0f}" text-anchor="middle" font-family="monospace" font-size="9" fill="{color}">{html.escape(arm_label)}</text>
 '''
 
     # Constellation connector lines between dot centers

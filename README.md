@@ -7,13 +7,13 @@ Your GitHub profile, reimagined as a black hole. Auto-generated animated SVG car
 
 ## Preview
 
-![Blackhole Header](./assets/generated/blackhole-header.svg)
+![Blackhole Header](./assets/generated/blackhole-header.png)
 
-![Stats](./assets/generated/stats-card.svg)
+![Stats](./assets/generated/stats-card.png)
 
-![Tech Stack](./assets/generated/tech-stack.svg)
+![Tech Stack](./assets/generated/tech-stack.png)
 
-![Projects](./assets/generated/projects-constellation.svg)
+![Projects](./assets/generated/projects-constellation.png)
 
 ## Features
 

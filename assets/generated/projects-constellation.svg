@@ -24,7 +24,7 @@
 <text x="425.0" y="130" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">Cloud-native microservices pla</text>
 <text x="425.0" y="144" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd">tform.</text>
 <rect x="374.8" y="158" width="100" height="15" rx="7" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-width="0.5"/>
-<text x="425.0" y="169" text-anchor="middle" font-family="monospace" font-size="9" fill="#a78bfa">Cloud & Infra</text>
+<text x="425.0" y="169" text-anchor="middle" font-family="monospace" font-size="9" fill="#a78bfa">Cloud &amp; Infra</text>
 <rect x="564.0" y="40" width="258.0" height="140" rx="4" fill="#0d0d20" stroke="#fbbf24" stroke-width="0.5" opacity="0.55"/>
 <circle class="pd" cx="693.0" cy="62.0" r="4" fill="#fbbf24" style="animation-delay:2s"/>
 <text x="693.0" y="92" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#e2d9f3">project-gamma</text>
