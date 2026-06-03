@@ -7,7 +7,6 @@ on:
   push:
     branches: [main]
     paths:
-      - 'config.yml'
       - 'generator/**'
 
 permissions:
@@ -26,19 +25,13 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install system dependencies
-        run: sudo apt-get install -y libcairo2-dev pkg-config python3-dev
-
       - name: Install Python dependencies
-        run: pip install -r requirements.txt cairosvg
+        run: pip install -r requirements.txt
 
       - name: Generate SVGs
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python -m generator.main
-
-      - name: Convert SVGs to PNGs
-        run: python convert_svg_to_png.py
+        # Uses demo data by default. Once you have created your config.yml,
+        # remove --demo and set GITHUB_TOKEN in your repo secrets.
+        run: python -m generator.main --demo
 
       - name: Commit and push assets
         run: |
