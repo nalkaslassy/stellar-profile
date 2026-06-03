@@ -28,31 +28,13 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
-      - name: Write config from secret
-        env:
-          STELLAR_CONFIG: ${{ secrets.STELLAR_CONFIG }}
-        run: |
-          if [ -n "$STELLAR_CONFIG" ]; then
-            echo "$STELLAR_CONFIG" > config.yml
-            echo "Config written from STELLAR_CONFIG secret"
-          fi
-
-      - name: Generate SVGs
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          if [ -f config.yml ] && [ -s config.yml ]; then
-            echo "Config found — generating with real data"
-            python -m generator.main
-          else
-            echo "No config — running in demo mode"
-            python -m generator.main --demo
-          fi
+      - name: Generate demo SVGs
+        run: python -m generator.main --demo
 
       - name: Commit and push assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/generated/
-          git diff --staged --quiet || git commit -m "chore: regenerate profile assets [skip ci]"
+          git diff --staged --quiet || git commit -m "chore: regenerate demo assets [skip ci]"
           git push
