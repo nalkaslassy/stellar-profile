@@ -28,18 +28,20 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
-      - name: Write config if secret is set
-        if: ${{ secrets.STELLAR_CONFIG != '' }}
+      - name: Write config from secret
         env:
           STELLAR_CONFIG: ${{ secrets.STELLAR_CONFIG }}
-        run: echo "$STELLAR_CONFIG" > config.yml
+        run: |
+          if [ -n "$STELLAR_CONFIG" ]; then
+            echo "$STELLAR_CONFIG" > config.yml
+            echo "Config written from STELLAR_CONFIG secret"
+          fi
 
       - name: Generate SVGs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          HAS_CONFIG: ${{ secrets.STELLAR_CONFIG != '' }}
         run: |
-          if [ -f config.yml ]; then
+          if [ -f config.yml ] && [ -s config.yml ]; then
             echo "Config found — generating with real data"
             python -m generator.main
           else
