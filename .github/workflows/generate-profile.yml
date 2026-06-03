@@ -28,10 +28,24 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
+      - name: Write config if secret is set
+        if: ${{ secrets.STELLAR_CONFIG != '' }}
+        env:
+          STELLAR_CONFIG: ${{ secrets.STELLAR_CONFIG }}
+        run: echo "$STELLAR_CONFIG" > config.yml
+
       - name: Generate SVGs
-        # Uses demo data by default. Once you have created your config.yml,
-        # remove --demo and set GITHUB_TOKEN in your repo secrets.
-        run: python -m generator.main --demo
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HAS_CONFIG: ${{ secrets.STELLAR_CONFIG != '' }}
+        run: |
+          if [ -f config.yml ]; then
+            echo "Config found — generating with real data"
+            python -m generator.main
+          else
+            echo "No config — running in demo mode"
+            python -m generator.main --demo
+          fi
 
       - name: Commit and push assets
         run: |
