@@ -1,0 +1,57 @@
+username: your-github-username
+
+profile:
+  name: "Your Name"
+  title: "Software Engineer"
+  bio: "Building things that matter."
+  location: "Earth"
+  company: "@your-company"
+
+social:
+  email: "you@example.com"
+  linkedin: "your-linkedin"
+  website: "https://yoursite.com"
+
+# Tech items orbit the black hole — group them into 3 arms
+orbit_arms:
+  - name: "Languages"
+    color: "cyan"        # cyan | violet | amber
+    items: ["Python", "TypeScript", "SQL", "Rust"]
+  - name: "Cloud & Infra"
+    color: "violet"
+    items: ["AWS", "Docker", "Terraform", "Linux"]
+  - name: "Frameworks"
+    color: "amber"
+    items: ["FastAPI", "React", "PySpark", "PostgreSQL"]
+
+# Featured projects shown as constellation cards
+projects:
+  - repo: "your-username/project-one"
+    description: "A short description of what this does."
+    arm: 0
+  - repo: "your-username/project-two"
+    description: "Another cool thing you built."
+    arm: 1
+  - repo: "your-username/project-three"
+    description: "One more project worth showing."
+    arm: 2
+
+# Which stats to display in the telemetry card
+stats:
+  metrics: [commits, stars, prs, issues, repos]
+
+languages:
+  exclude: ["HTML", "CSS", "Makefile", "Dockerfile"]
+  max_display: 7
+
+theme:
+  background: "#0a0a12"
+  singularity: "#000000"
+  accretion_inner: "#ff6ef7"
+  accretion_outer: "#7c3aed"
+  jet: "#c084fc"
+  text_primary: "#e2d9f3"
+  text_secondary: "#9f7edd"
+  cyan: "#22d3ee"
+  violet: "#a78bfa"
+  amber: "#fbbf24"

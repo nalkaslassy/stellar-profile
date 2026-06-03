@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="185" viewBox="0 0 850 185">
+<defs>
+  <style>
+    @keyframes rspin3{to{transform:rotate(360deg)}}
+    .radararm{animation:rspin3 10s linear infinite;transform-origin:670px 108px}
+  </style>
+</defs>
+<rect width="850" height="185" fill="#0a0a12" rx="6"/>
+<rect x="1" y="1" width="848" height="183" fill="none" stroke="#7c3aed" stroke-width="0.5" rx="5" opacity="0.4"/>
+<text x="32" y="24" font-family="monospace" font-size="9" fill="#9f7edd" letter-spacing="3" opacity="0.6">LANGUAGE TELEMETRY</text>
+<text x="545" y="24" font-family="monospace" font-size="9" fill="#9f7edd" letter-spacing="3" opacity="0.6">FOCUS SECTORS</text>
+<line x1="32" y1="31" x2="818" y2="31" stroke="#7c3aed" stroke-width="0.5" opacity="0.25"/>
+<line x1="515" y1="31" x2="515" y2="173" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
+<text x="32" y="53" font-family="monospace" font-size="11" fill="#e2d9f3">Python</text>
+<rect x="122" y="42" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
+<rect x="122" y="42" width="284" height="8" rx="2" fill="#3572A5" opacity="0.75"/>
+<text x="475" y="53" font-family="monospace" font-size="10" fill="#9f7edd">45.2%</text>
+<text x="32" y="75" font-family="monospace" font-size="11" fill="#e2d9f3">TypeScript</text>
+<rect x="122" y="64" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
+<rect x="122" y="64" width="176" height="8" rx="2" fill="#2b7489" opacity="0.75"/>
+<text x="475" y="75" font-family="monospace" font-size="10" fill="#9f7edd">28.1%</text>
+<text x="32" y="98" font-family="monospace" font-size="11" fill="#e2d9f3">Rust</text>
+<rect x="122" y="87" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
+<rect x="122" y="87" width="78" height="8" rx="2" fill="#dea584" opacity="0.75"/>
+<text x="475" y="98" font-family="monospace" font-size="10" fill="#9f7edd">12.4%</text>
+<text x="32" y="120" font-family="monospace" font-size="11" fill="#e2d9f3">SQL</text>
+<rect x="122" y="110" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
+<rect x="122" y="110" width="49" height="8" rx="2" fill="#e38c00" opacity="0.75"/>
+<text x="475" y="120" font-family="monospace" font-size="10" fill="#9f7edd">7.8%</text>
+<text x="32" y="143" font-family="monospace" font-size="11" fill="#e2d9f3">Shell</text>
+<rect x="122" y="132" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
+<rect x="122" y="132" width="26" height="8" rx="2" fill="#89e051" opacity="0.75"/>
+<text x="475" y="143" font-family="monospace" font-size="10" fill="#9f7edd">4.1%</text>
+<text x="32" y="165" font-family="monospace" font-size="11" fill="#e2d9f3">Go</text>
+<rect x="122" y="154" width="345" height="8" rx="2" fill="#7c3aed" opacity="0.12"/>
+<rect x="122" y="154" width="15" height="8" rx="2" fill="#00ADD8" opacity="0.75"/>
+<text x="475" y="165" font-family="monospace" font-size="10" fill="#9f7edd">2.4%</text>
+<circle cx="670" cy="108" r="18" fill="none" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
+<circle cx="670" cy="108" r="37" fill="none" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
+<circle cx="670" cy="108" r="56" fill="none" stroke="#7c3aed" stroke-width="0.5" opacity="0.2"/>
+<line x1="670" y1="108" x2="670.0" y2="52.0" stroke="#7c3aed" stroke-width="0.5" opacity="0.18"/>
+<text x="670.0" y="40.0" text-anchor="middle" font-family="monospace" font-size="9" fill="#22d3ee" opacity="0.9">Languages</text>
+<line x1="670" y1="108" x2="718.5" y2="136.0" stroke="#7c3aed" stroke-width="0.5" opacity="0.18"/>
+<text x="732.4" y="148.0" text-anchor="middle" font-family="monospace" font-size="9" fill="#a78bfa" opacity="0.9">Cloud & Infra</text>
+<line x1="670" y1="108" x2="621.5" y2="136.0" stroke="#7c3aed" stroke-width="0.5" opacity="0.18"/>
+<text x="607.6" y="148.0" text-anchor="middle" font-family="monospace" font-size="9" fill="#fbbf24" opacity="0.9">Frameworks</text>
+<polygon points="670.0,60.4 703.9,127.6 626.4,133.2" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-width="0.8" opacity="0.45"/>
+<line class="radararm" x1="670" y1="108" x2="670" y2="52" stroke="#22d3ee" stroke-width="1.5" opacity="0.75"/>
+</svg>

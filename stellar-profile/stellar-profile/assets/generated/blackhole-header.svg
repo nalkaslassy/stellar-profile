@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="310" viewBox="0 0 850 310">
+<defs>
+  <radialGradient id="bh" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#000"/>
+    <stop offset="40%" stop-color="#0d0020"/>
+    <stop offset="70%" stop-color="#7c3aed" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#0a0a12" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="bgr" cx="50%" cy="45%" r="65%">
+    <stop offset="0%" stop-color="#0e0828"/>
+    <stop offset="100%" stop-color="#060410"/>
+  </radialGradient>
+  <style>
+    @keyframes tw0{from{opacity:0.21}to{opacity:0.84}}@keyframes tw1{from{opacity:0.12}to{opacity:0.81}}@keyframes tw2{from{opacity:0.16}to{opacity:0.7}}@keyframes tw3{from{opacity:0.24}to{opacity:0.72}}@keyframes tw4{from{opacity:0.22}to{opacity:0.86}}@keyframes tw5{from{opacity:0.22}to{opacity:0.82}}@keyframes tw6{from{opacity:0.21}to{opacity:0.94}}@keyframes tw7{from{opacity:0.11}to{opacity:0.72}}@keyframes tw8{from{opacity:0.19}to{opacity:0.79}}@keyframes tw9{from{opacity:0.2}to{opacity:0.68}}@keyframes tw10{from{opacity:0.13}to{opacity:0.67}}@keyframes tw11{from{opacity:0.19}to{opacity:0.65}}@keyframes tw12{from{opacity:0.15}to{opacity:0.8}}@keyframes tw13{from{opacity:0.21}to{opacity:0.9}}@keyframes tw14{from{opacity:0.14}to{opacity:0.95}}@keyframes tw15{from{opacity:0.2}to{opacity:0.84}}@keyframes tw16{from{opacity:0.11}to{opacity:0.6}}@keyframes tw17{from{opacity:0.1}to{opacity:0.82}}@keyframes tw18{from{opacity:0.17}to{opacity:0.87}}@keyframes tw19{from{opacity:0.14}to{opacity:0.94}}@keyframes tw20{from{opacity:0.09}to{opacity:0.86}}@keyframes tw21{from{opacity:0.19}to{opacity:0.93}}@keyframes tw22{from{opacity:0.24}to{opacity:0.86}}@keyframes tw23{from{opacity:0.14}to{opacity:0.91}}@keyframes tw24{from{opacity:0.17}to{opacity:0.81}}@keyframes tw25{from{opacity:0.09}to{opacity:0.72}}@keyframes tw26{from{opacity:0.2}to{opacity:0.91}}@keyframes tw27{from{opacity:0.1}to{opacity:0.83}}@keyframes tw28{from{opacity:0.19}to{opacity:0.83}}@keyframes tw29{from{opacity:0.11}to{opacity:0.79}}@keyframes tw30{from{opacity:0.09}to{opacity:0.88}}@keyframes tw31{from{opacity:0.24}to{opacity:0.92}}@keyframes tw32{from{opacity:0.23}to{opacity:0.66}}@keyframes tw33{from{opacity:0.15}to{opacity:0.94}}@keyframes tw34{from{opacity:0.12}to{opacity:0.62}}@keyframes tw35{from{opacity:0.16}to{opacity:0.92}}@keyframes tw36{from{opacity:0.09}to{opacity:0.62}}@keyframes tw37{from{opacity:0.18}to{opacity:0.82}}@keyframes tw38{from{opacity:0.19}to{opacity:0.71}}@keyframes tw39{from{opacity:0.24}to{opacity:0.93}}@keyframes tw40{from{opacity:0.17}to{opacity:0.78}}@keyframes tw41{from{opacity:0.11}to{opacity:0.89}}@keyframes tw42{from{opacity:0.08}to{opacity:0.89}}@keyframes tw43{from{opacity:0.1}to{opacity:0.79}}@keyframes tw44{from{opacity:0.19}to{opacity:0.69}}@keyframes tw45{from{opacity:0.15}to{opacity:0.7}}@keyframes tw46{from{opacity:0.21}to{opacity:0.79}}@keyframes tw47{from{opacity:0.23}to{opacity:0.79}}@keyframes tw48{from{opacity:0.14}to{opacity:0.93}}@keyframes tw49{from{opacity:0.21}to{opacity:0.91}}@keyframes tw50{from{opacity:0.22}to{opacity:0.66}}@keyframes tw51{from{opacity:0.15}to{opacity:0.83}}@keyframes tw52{from{opacity:0.23}to{opacity:0.9}}@keyframes tw53{from{opacity:0.22}to{opacity:0.68}}@keyframes tw54{from{opacity:0.21}to{opacity:0.72}}@keyframes tw55{from{opacity:0.08}to{opacity:0.91}}@keyframes tw56{from{opacity:0.18}to{opacity:0.72}}@keyframes tw57{from{opacity:0.23}to{opacity:0.67}}@keyframes tw58{from{opacity:0.2}to{opacity:0.86}}@keyframes tw59{from{opacity:0.14}to{opacity:0.71}}@keyframes tw60{from{opacity:0.2}to{opacity:0.79}}@keyframes tw61{from{opacity:0.11}to{opacity:0.8}}@keyframes tw62{from{opacity:0.21}to{opacity:0.81}}@keyframes tw63{from{opacity:0.21}to{opacity:0.94}}@keyframes tw64{from{opacity:0.19}to{opacity:0.63}}@keyframes tw65{from{opacity:0.08}to{opacity:0.69}}@keyframes tw66{from{opacity:0.2}to{opacity:0.73}}@keyframes tw67{from{opacity:0.23}to{opacity:0.91}}@keyframes tw68{from{opacity:0.16}to{opacity:0.8}}@keyframes tw69{from{opacity:0.18}to{opacity:0.71}}@keyframes tw70{from{opacity:0.22}to{opacity:0.79}}@keyframes tw71{from{opacity:0.13}to{opacity:0.87}}@keyframes tw72{from{opacity:0.13}to{opacity:0.71}}@keyframes tw73{from{opacity:0.2}to{opacity:0.62}}@keyframes tw74{from{opacity:0.15}to{opacity:0.92}}@keyframes tw75{from{opacity:0.08}to{opacity:0.72}}@keyframes tw76{from{opacity:0.21}to{opacity:0.79}}@keyframes tw77{from{opacity:0.15}to{opacity:0.83}}@keyframes tw78{from{opacity:0.25}to{opacity:0.79}}@keyframes tw79{from{opacity:0.23}to{opacity:0.66}}@keyframes tw80{from{opacity:0.23}to{opacity:0.7}}@keyframes tw81{from{opacity:0.09}to{opacity:0.93}}@keyframes tw82{from{opacity:0.24}to{opacity:0.67}}@keyframes tw83{from{opacity:0.24}to{opacity:0.76}}@keyframes tw84{from{opacity:0.1}to{opacity:0.89}}@keyframes tw85{from{opacity:0.23}to{opacity:0.73}}@keyframes tw86{from{opacity:0.1}to{opacity:0.87}}@keyframes tw87{from{opacity:0.17}to{opacity:0.83}}@keyframes tw88{from{opacity:0.16}to{opacity:0.75}}@keyframes tw89{from{opacity:0.24}to{opacity:0.69}}@keyframes tw90{from{opacity:0.18}to{opacity:0.71}}@keyframes tw91{from{opacity:0.18}to{opacity:0.83}}@keyframes tw92{from{opacity:0.14}to{opacity:0.69}}@keyframes tw93{from{opacity:0.12}to{opacity:0.74}}@keyframes tw94{from{opacity:0.21}to{opacity:0.63}}@keyframes tw95{from{opacity:0.16}to{opacity:0.79}}@keyframes tw96{from{opacity:0.12}to{opacity:0.64}}@keyframes tw97{from{opacity:0.11}to{opacity:0.68}}@keyframes tw98{from{opacity:0.13}to{opacity:0.64}}@keyframes tw99{from{opacity:0.17}to{opacity:0.7}}@keyframes tw100{from{opacity:0.21}to{opacity:0.64}}@keyframes tw101{from{opacity:0.24}to{opacity:0.69}}@keyframes tw102{from{opacity:0.19}to{opacity:0.62}}@keyframes tw103{from{opacity:0.17}to{opacity:0.75}}@keyframes tw104{from{opacity:0.13}to{opacity:0.81}}@keyframes tw105{from{opacity:0.1}to{opacity:0.87}}@keyframes tw106{from{opacity:0.17}to{opacity:0.65}}@keyframes tw107{from{opacity:0.13}to{opacity:0.7}}@keyframes tw108{from{opacity:0.19}to{opacity:0.83}}@keyframes tw109{from{opacity:0.13}to{opacity:0.65}}@keyframes tw110{from{opacity:0.24}to{opacity:0.75}}@keyframes tw111{from{opacity:0.16}to{opacity:0.63}}@keyframes tw112{from{opacity:0.12}to{opacity:0.84}}@keyframes tw113{from{opacity:0.13}to{opacity:0.61}}@keyframes tw114{from{opacity:0.11}to{opacity:0.8}}@keyframes tw115{from{opacity:0.13}to{opacity:0.64}}@keyframes tw116{from{opacity:0.15}to{opacity:0.87}}@keyframes tw117{from{opacity:0.21}to{opacity:0.9}}@keyframes tw118{from{opacity:0.19}to{opacity:0.77}}@keyframes tw119{from{opacity:0.15}to{opacity:0.84}}@keyframes tw120{from{opacity:0.11}to{opacity:0.79}}@keyframes tw121{from{opacity:0.16}to{opacity:0.64}}@keyframes tw122{from{opacity:0.15}to{opacity:0.77}}@keyframes tw123{from{opacity:0.18}to{opacity:0.86}}@keyframes tw124{from{opacity:0.24}to{opacity:0.78}}@keyframes tw125{from{opacity:0.25}to{opacity:0.77}}@keyframes tw126{from{opacity:0.17}to{opacity:0.76}}@keyframes tw127{from{opacity:0.23}to{opacity:0.74}}@keyframes tw128{from{opacity:0.19}to{opacity:0.89}}@keyframes tw129{from{opacity:0.14}to{opacity:0.64}}@keyframes tw130{from{opacity:0.15}to{opacity:0.83}}@keyframes tw131{from{opacity:0.2}to{opacity:0.83}}@keyframes tw132{from{opacity:0.21}to{opacity:0.91}}@keyframes tw133{from{opacity:0.12}to{opacity:0.63}}@keyframes tw134{from{opacity:0.09}to{opacity:0.88}}@keyframes tw135{from{opacity:0.18}to{opacity:0.88}}@keyframes tw136{from{opacity:0.12}to{opacity:0.92}}@keyframes tw137{from{opacity:0.08}to{opacity:0.88}}@keyframes tw138{from{opacity:0.18}to{opacity:0.82}}@keyframes tw139{from{opacity:0.23}to{opacity:0.64}}
+    @keyframes rspin{to{transform:rotate(360deg)}}
+    @keyframes rrev{to{transform:rotate(-360deg)}}
+    @keyframes jpulse{from{opacity:0.25}to{opacity:0.85}}
+    @keyframes pout{0%{r:46;opacity:0.3}100%{r:78;opacity:0}}
+    .r1{animation:rspin 24s linear infinite;transform-origin:425px 162px}
+    .r2{animation:rrev 40s linear infinite;transform-origin:425px 162px}
+    .jet{animation:jpulse 3s ease-in-out infinite alternate}
+    .pulse{animation:pout 4.5s ease-out infinite;transform-origin:425px 162px}
+  </style>
+</defs>
+<rect width="850" height="310" fill="url(#bgr)"/>
+<circle cx="659" cy="62" r="0.4" fill="#ffffff" style="animation:tw0 2.2s 0.6s infinite alternate ease-in-out"/>
+<circle cx="563" cy="49" r="0.9" fill="#ffffff" style="animation:tw1 1.7s 0.3s infinite alternate ease-in-out"/>
+<circle cx="579" cy="106" r="1.0" fill="#ffffff" style="animation:tw2 3.1s 1.2s infinite alternate ease-in-out"/>
+<circle cx="11" cy="86" r="1.0" fill="#ffffff" style="animation:tw3 2.3s 0.4s infinite alternate ease-in-out"/>
+<circle cx="99" cy="199" r="0.5" fill="#ffffff" style="animation:tw4 3.5s 1.7s infinite alternate ease-in-out"/>
+<circle cx="554" cy="68" r="1.2" fill="#ffffff" style="animation:tw5 2.4s 1.5s infinite alternate ease-in-out"/>
+<circle cx="375" cy="300" r="0.6" fill="#ffffff" style="animation:tw6 1.8s 1.9s infinite alternate ease-in-out"/>
+<circle cx="243" cy="56" r="0.7" fill="#ffffff" style="animation:tw7 2.6s 2.3s infinite alternate ease-in-out"/>
+<circle cx="691" cy="141" r="1.0" fill="#ffffff" style="animation:tw8 3.1s 0.2s infinite alternate ease-in-out"/>
+<circle cx="255" cy="88" r="0.8" fill="#ffffff" style="animation:tw9 2.2s 2.6s infinite alternate ease-in-out"/>
+<circle cx="337" cy="33" r="0.6" fill="#ffffff" style="animation:tw10 1.7s 0.9s infinite alternate ease-in-out"/>
+<circle cx="585" cy="166" r="0.6" fill="#ffffff" style="animation:tw11 2.7s 2.5s infinite alternate ease-in-out"/>
+<circle cx="147" cy="131" r="1.0" fill="#ffffff" style="animation:tw12 2.8s 2.1s infinite alternate ease-in-out"/>
+<circle cx="375" cy="117" r="1.2" fill="#ffffff" style="animation:tw13 1.9s 1.4s infinite alternate ease-in-out"/>
+<circle cx="161" cy="86" r="1.0" fill="#ffffff" style="animation:tw14 2.5s 0.2s infinite alternate ease-in-out"/>
+<circle cx="546" cy="133" r="1.2" fill="#ffffff" style="animation:tw15 3.5s 0.0s infinite alternate ease-in-out"/>
+<circle cx="554" cy="141" r="1.0" fill="#ffffff" style="animation:tw16 2.3s 0.8s infinite alternate ease-in-out"/>
+<circle cx="744" cy="139" r="1.2" fill="#ffffff" style="animation:tw17 3.3s 1.4s infinite alternate ease-in-out"/>
+<circle cx="659" cy="264" r="0.9" fill="#ffffff" style="animation:tw18 1.9s 2.1s infinite alternate ease-in-out"/>
+<circle cx="548" cy="5" r="0.9" fill="#ffffff" style="animation:tw19 2.7s 0.3s infinite alternate ease-in-out"/>
+<circle cx="831" cy="162" r="0.6" fill="#ffffff" style="animation:tw20 2.1s 1.6s infinite alternate ease-in-out"/>
+<circle cx="840" cy="40" r="1.2" fill="#ffffff" style="animation:tw21 2.8s 0.4s infinite alternate ease-in-out"/>
+<circle cx="174" cy="140" r="0.8" fill="#ffffff" style="animation:tw22 2.9s 2.7s infinite alternate ease-in-out"/>
+<circle cx="711" cy="107" r="1.0" fill="#ffffff" style="animation:tw23 2.5s 1.9s infinite alternate ease-in-out"/>
+<circle cx="467" cy="66" r="0.6" fill="#ffffff" style="animation:tw24 1.7s 0.1s infinite alternate ease-in-out"/>
+<circle cx="12" cy="41" r="1.0" fill="#ffffff" style="animation:tw25 1.7s 0.2s infinite alternate ease-in-out"/>
+<circle cx="531" cy="126" r="0.6" fill="#ffffff" style="animation:tw26 2.7s 1.5s infinite alternate ease-in-out"/>
+<circle cx="595" cy="247" r="0.6" fill="#ffffff" style="animation:tw27 2.6s 1.1s infinite alternate ease-in-out"/>
+<circle cx="367" cy="221" r="0.7" fill="#ffffff" style="animation:tw28 3.5s 0.2s infinite alternate ease-in-out"/>
+<circle cx="67" cy="211" r="1.0" fill="#ffffff" style="animation:tw29 3.4s 0.3s infinite alternate ease-in-out"/>
+<circle cx="148" cy="221" r="0.5" fill="#ffffff" style="animation:tw30 2.6s 2.4s infinite alternate ease-in-out"/>
+<circle cx="568" cy="55" r="0.4" fill="#ffffff" style="animation:tw31 3.8s 2.3s infinite alternate ease-in-out"/>
+<circle cx="247" cy="90" r="0.7" fill="#ffffff" style="animation:tw32 2.7s 2.4s infinite alternate ease-in-out"/>
+<circle cx="7" cy="204" r="0.6" fill="#ffffff" style="animation:tw33 3.3s 1.3s infinite alternate ease-in-out"/>
+<circle cx="807" cy="289" r="0.9" fill="#ffffff" style="animation:tw34 2.7s 0.5s infinite alternate ease-in-out"/>
+<circle cx="758" cy="282" r="0.4" fill="#ffffff" style="animation:tw35 2.3s 0.1s infinite alternate ease-in-out"/>
+<circle cx="548" cy="85" r="0.4" fill="#ffffff" style="animation:tw36 2.7s 2.4s infinite alternate ease-in-out"/>
+<circle cx="245" cy="211" r="0.5" fill="#ffffff" style="animation:tw37 3.6s 0.7s infinite alternate ease-in-out"/>
+<circle cx="434" cy="303" r="0.9" fill="#ffffff" style="animation:tw38 2.3s 0.7s infinite alternate ease-in-out"/>
+<circle cx="276" cy="207" r="0.5" fill="#ffffff" style="animation:tw39 3.0s 1.3s infinite alternate ease-in-out"/>
+<circle cx="14" cy="239" r="0.9" fill="#ffffff" style="animation:tw40 2.8s 0.3s infinite alternate ease-in-out"/>
+<circle cx="140" cy="183" r="1.1" fill="#ffffff" style="animation:tw41 3.5s 1.0s infinite alternate ease-in-out"/>
+<circle cx="725" cy="159" r="0.9" fill="#ffffff" style="animation:tw42 3.8s 1.8s infinite alternate ease-in-out"/>
+<circle cx="311" cy="58" r="1.2" fill="#ffffff" style="animation:tw43 1.9s 0.3s infinite alternate ease-in-out"/>
+<circle cx="283" cy="149" r="0.9" fill="#ffffff" style="animation:tw44 3.2s 0.6s infinite alternate ease-in-out"/>
+<circle cx="505" cy="133" r="1.1" fill="#ffffff" style="animation:tw45 3.5s 0.3s infinite alternate ease-in-out"/>
+<circle cx="8" cy="175" r="1.0" fill="#ffffff" style="animation:tw46 3.0s 0.7s infinite alternate ease-in-out"/>
+<circle cx="442" cy="292" r="0.4" fill="#ffffff" style="animation:tw47 1.8s 2.5s infinite alternate ease-in-out"/>
+<circle cx="383" cy="303" r="0.8" fill="#ffffff" style="animation:tw48 2.5s 0.1s infinite alternate ease-in-out"/>
+<circle cx="45" cy="188" r="0.6" fill="#ffffff" style="animation:tw49 2.1s 0.3s infinite alternate ease-in-out"/>
+<circle cx="421" cy="84" r="1.1" fill="#ffffff" style="animation:tw50 2.1s 0.5s infinite alternate ease-in-out"/>
+<circle cx="427" cy="17" r="0.5" fill="#ffffff" style="animation:tw51 3.6s 2.2s infinite alternate ease-in-out"/>
+<circle cx="757" cy="132" r="0.6" fill="#ffffff" style="animation:tw52 3.3s 0.3s infinite alternate ease-in-out"/>
+<circle cx="232" cy="107" r="1.1" fill="#ffffff" style="animation:tw53 2.6s 0.9s infinite alternate ease-in-out"/>
+<circle cx="29" cy="103" r="0.7" fill="#ffffff" style="animation:tw54 2.2s 0.2s infinite alternate ease-in-out"/>
+<circle cx="526" cy="209" r="0.9" fill="#ffffff" style="animation:tw55 3.5s 0.9s infinite alternate ease-in-out"/>
+<circle cx="272" cy="96" r="0.9" fill="#ffffff" style="animation:tw56 3.8s 0.1s infinite alternate ease-in-out"/>
+<circle cx="810" cy="165" r="0.7" fill="#ffffff" style="animation:tw57 3.8s 0.3s infinite alternate ease-in-out"/>
+<circle cx="50" cy="228" r="0.4" fill="#ffffff" style="animation:tw58 3.6s 1.5s infinite alternate ease-in-out"/>
+<circle cx="691" cy="105" r="0.7" fill="#ffffff" style="animation:tw59 1.8s 1.9s infinite alternate ease-in-out"/>
+<circle cx="132" cy="158" r="0.8" fill="#ffffff" style="animation:tw60 3.1s 0.9s infinite alternate ease-in-out"/>
+<circle cx="201" cy="220" r="0.9" fill="#ffffff" style="animation:tw61 2.4s 2.1s infinite alternate ease-in-out"/>
+<circle cx="420" cy="285" r="1.1" fill="#ffffff" style="animation:tw62 2.3s 0.6s infinite alternate ease-in-out"/>
+<circle cx="334" cy="243" r="0.8" fill="#ffffff" style="animation:tw63 3.1s 1.4s infinite alternate ease-in-out"/>
+<circle cx="758" cy="91" r="0.9" fill="#ffffff" style="animation:tw64 2.2s 1.9s infinite alternate ease-in-out"/>
+<circle cx="774" cy="125" r="0.9" fill="#ffffff" style="animation:tw65 2.1s 0.6s infinite alternate ease-in-out"/>
+<circle cx="491" cy="42" r="0.8" fill="#ffffff" style="animation:tw66 3.5s 1.6s infinite alternate ease-in-out"/>
+<circle cx="414" cy="129" r="0.5" fill="#ffffff" style="animation:tw67 3.1s 2.5s infinite alternate ease-in-out"/>
+<circle cx="802" cy="222" r="0.6" fill="#ffffff" style="animation:tw68 3.4s 1.9s infinite alternate ease-in-out"/>
+<circle cx="129" cy="238" r="0.5" fill="#ffffff" style="animation:tw69 2.6s 1.5s infinite alternate ease-in-out"/>
+<circle cx="778" cy="231" r="0.9" fill="#ffffff" style="animation:tw70 3.2s 1.4s infinite alternate ease-in-out"/>
+<circle cx="167" cy="248" r="0.8" fill="#ffffff" style="animation:tw71 3.3s 2.4s infinite alternate ease-in-out"/>
+<circle cx="501" cy="127" r="0.6" fill="#ffffff" style="animation:tw72 1.8s 0.8s infinite alternate ease-in-out"/>
+<circle cx="558" cy="46" r="0.5" fill="#ffffff" style="animation:tw73 2.1s 1.9s infinite alternate ease-in-out"/>
+<circle cx="422" cy="174" r="0.8" fill="#ffffff" style="animation:tw74 2.5s 0.6s infinite alternate ease-in-out"/>
+<circle cx="603" cy="15" r="1.1" fill="#ffffff" style="animation:tw75 3.3s 1.1s infinite alternate ease-in-out"/>
+<circle cx="776" cy="204" r="1.1" fill="#ffffff" style="animation:tw76 3.7s 1.2s infinite alternate ease-in-out"/>
+<circle cx="622" cy="117" r="0.8" fill="#ffffff" style="animation:tw77 2.2s 1.4s infinite alternate ease-in-out"/>
+<circle cx="822" cy="212" r="1.0" fill="#ffffff" style="animation:tw78 3.4s 2.6s infinite alternate ease-in-out"/>
+<circle cx="408" cy="293" r="0.9" fill="#ffffff" style="animation:tw79 1.8s 1.2s infinite alternate ease-in-out"/>
+<circle cx="271" cy="199" r="0.7" fill="#ffffff" style="animation:tw80 2.6s 0.9s infinite alternate ease-in-out"/>
+<circle cx="436" cy="134" r="1.1" fill="#ffffff" style="animation:tw81 2.6s 2.1s infinite alternate ease-in-out"/>
+<circle cx="234" cy="40" r="1.0" fill="#ffffff" style="animation:tw82 3.0s 2.1s infinite alternate ease-in-out"/>
+<circle cx="25" cy="83" r="0.6" fill="#ffffff" style="animation:tw83 2.6s 0.3s infinite alternate ease-in-out"/>
+<circle cx="267" cy="193" r="0.5" fill="#ffffff" style="animation:tw84 2.9s 2.1s infinite alternate ease-in-out"/>
+<circle cx="323" cy="60" r="0.9" fill="#ffffff" style="animation:tw85 3.6s 1.6s infinite alternate ease-in-out"/>
+<circle cx="737" cy="106" r="0.5" fill="#ffffff" style="animation:tw86 3.1s 1.8s infinite alternate ease-in-out"/>
+<circle cx="705" cy="66" r="1.0" fill="#ffffff" style="animation:tw87 2.8s 0.1s infinite alternate ease-in-out"/>
+<circle cx="75" cy="264" r="0.9" fill="#ffffff" style="animation:tw88 1.6s 1.2s infinite alternate ease-in-out"/>
+<circle cx="375" cy="240" r="1.0" fill="#ffffff" style="animation:tw89 2.6s 2.1s infinite alternate ease-in-out"/>
+<circle cx="832" cy="280" r="1.0" fill="#ffffff" style="animation:tw90 2.6s 2.3s infinite alternate ease-in-out"/>
+<circle cx="256" cy="49" r="0.6" fill="#ffffff" style="animation:tw91 2.6s 2.1s infinite alternate ease-in-out"/>
+<circle cx="349" cy="19" r="0.8" fill="#ffffff" style="animation:tw92 2.3s 1.4s infinite alternate ease-in-out"/>
+<circle cx="291" cy="146" r="0.8" fill="#ffffff" style="animation:tw93 2.7s 0.5s infinite alternate ease-in-out"/>
+<circle cx="573" cy="128" r="1.0" fill="#ffffff" style="animation:tw94 3.0s 1.4s infinite alternate ease-in-out"/>
+<circle cx="231" cy="212" r="1.0" fill="#ffffff" style="animation:tw95 2.3s 1.6s infinite alternate ease-in-out"/>
+<circle cx="440" cy="286" r="0.7" fill="#ffffff" style="animation:tw96 3.1s 0.8s infinite alternate ease-in-out"/>
+<circle cx="202" cy="166" r="0.5" fill="#ffffff" style="animation:tw97 2.8s 2.1s infinite alternate ease-in-out"/>
+<circle cx="500" cy="146" r="1.0" fill="#ffffff" style="animation:tw98 3.7s 1.5s infinite alternate ease-in-out"/>
+<circle cx="203" cy="156" r="0.6" fill="#ffffff" style="animation:tw99 2.0s 0.0s infinite alternate ease-in-out"/>
+<circle cx="60" cy="288" r="0.6" fill="#ffffff" style="animation:tw100 3.7s 1.8s infinite alternate ease-in-out"/>
+<circle cx="17" cy="298" r="0.6" fill="#ffffff" style="animation:tw101 2.7s 1.0s infinite alternate ease-in-out"/>
+<circle cx="494" cy="63" r="1.1" fill="#ffffff" style="animation:tw102 2.5s 0.2s infinite alternate ease-in-out"/>
+<circle cx="157" cy="293" r="1.2" fill="#ffffff" style="animation:tw103 1.8s 0.7s infinite alternate ease-in-out"/>
+<circle cx="615" cy="120" r="1.0" fill="#ffffff" style="animation:tw104 2.4s 2.5s infinite alternate ease-in-out"/>
+<circle cx="444" cy="161" r="0.9" fill="#ffffff" style="animation:tw105 1.7s 2.7s infinite alternate ease-in-out"/>
+<circle cx="645" cy="113" r="0.6" fill="#ffffff" style="animation:tw106 1.8s 0.7s infinite alternate ease-in-out"/>
+<circle cx="423" cy="235" r="1.0" fill="#ffffff" style="animation:tw107 2.6s 0.1s infinite alternate ease-in-out"/>
+<circle cx="469" cy="41" r="0.9" fill="#ffffff" style="animation:tw108 3.6s 2.2s infinite alternate ease-in-out"/>
+<circle cx="207" cy="222" r="0.5" fill="#ffffff" style="animation:tw109 2.1s 0.4s infinite alternate ease-in-out"/>
+<circle cx="66" cy="89" r="1.0" fill="#ffffff" style="animation:tw110 2.9s 2.3s infinite alternate ease-in-out"/>
+<circle cx="484" cy="160" r="1.0" fill="#ffffff" style="animation:tw111 3.7s 1.4s infinite alternate ease-in-out"/>
+<circle cx="45" cy="226" r="1.0" fill="#ffffff" style="animation:tw112 2.9s 0.1s infinite alternate ease-in-out"/>
+<circle cx="594" cy="305" r="1.2" fill="#ffffff" style="animation:tw113 3.8s 1.9s infinite alternate ease-in-out"/>
+<circle cx="779" cy="94" r="0.8" fill="#ffffff" style="animation:tw114 3.0s 2.6s infinite alternate ease-in-out"/>
+<circle cx="655" cy="256" r="1.2" fill="#ffffff" style="animation:tw115 2.6s 1.1s infinite alternate ease-in-out"/>
+<circle cx="169" cy="173" r="0.7" fill="#ffffff" style="animation:tw116 2.7s 1.9s infinite alternate ease-in-out"/>
+<circle cx="42" cy="237" r="0.5" fill="#ffffff" style="animation:tw117 2.2s 0.3s infinite alternate ease-in-out"/>
+<circle cx="6" cy="282" r="0.8" fill="#ffffff" style="animation:tw118 1.7s 1.5s infinite alternate ease-in-out"/>
+<circle cx="457" cy="31" r="0.6" fill="#ffffff" style="animation:tw119 2.8s 2.6s infinite alternate ease-in-out"/>
+<circle cx="129" cy="19" r="1.2" fill="#ffffff" style="animation:tw120 2.9s 0.7s infinite alternate ease-in-out"/>
+<circle cx="570" cy="213" r="0.5" fill="#ffffff" style="animation:tw121 3.8s 2.6s infinite alternate ease-in-out"/>
+<circle cx="162" cy="260" r="1.1" fill="#ffffff" style="animation:tw122 2.2s 2.0s infinite alternate ease-in-out"/>
+<circle cx="488" cy="129" r="0.8" fill="#ffffff" style="animation:tw123 1.9s 0.5s infinite alternate ease-in-out"/>
+<circle cx="144" cy="40" r="0.6" fill="#ffffff" style="animation:tw124 3.3s 1.2s infinite alternate ease-in-out"/>
+<circle cx="845" cy="6" r="0.6" fill="#ffffff" style="animation:tw125 2.3s 1.6s infinite alternate ease-in-out"/>
+<circle cx="157" cy="233" r="0.8" fill="#ffffff" style="animation:tw126 2.4s 1.5s infinite alternate ease-in-out"/>
+<circle cx="334" cy="101" r="1.2" fill="#ffffff" style="animation:tw127 2.1s 1.1s infinite alternate ease-in-out"/>
+<circle cx="330" cy="247" r="1.0" fill="#ffffff" style="animation:tw128 3.4s 1.1s infinite alternate ease-in-out"/>
+<circle cx="160" cy="258" r="1.2" fill="#ffffff" style="animation:tw129 1.9s 2.7s infinite alternate ease-in-out"/>
+<circle cx="455" cy="56" r="0.8" fill="#ffffff" style="animation:tw130 2.6s 2.0s infinite alternate ease-in-out"/>
+<circle cx="163" cy="43" r="0.8" fill="#ffffff" style="animation:tw131 3.7s 0.9s infinite alternate ease-in-out"/>
+<circle cx="341" cy="278" r="0.7" fill="#ffffff" style="animation:tw132 2.3s 2.0s infinite alternate ease-in-out"/>
+<circle cx="41" cy="40" r="0.6" fill="#ffffff" style="animation:tw133 3.1s 0.8s infinite alternate ease-in-out"/>
+<circle cx="105" cy="56" r="0.8" fill="#ffffff" style="animation:tw134 3.1s 2.5s infinite alternate ease-in-out"/>
+<circle cx="305" cy="188" r="0.7" fill="#ffffff" style="animation:tw135 1.9s 1.5s infinite alternate ease-in-out"/>
+<circle cx="179" cy="94" r="0.5" fill="#ffffff" style="animation:tw136 3.5s 1.7s infinite alternate ease-in-out"/>
+<circle cx="151" cy="123" r="0.8" fill="#ffffff" style="animation:tw137 2.2s 0.7s infinite alternate ease-in-out"/>
+<circle cx="299" cy="284" r="0.5" fill="#ffffff" style="animation:tw138 2.6s 1.0s infinite alternate ease-in-out"/>
+<circle cx="439" cy="133" r="0.8" fill="#ffffff" style="animation:tw139 2.3s 2.8s infinite alternate ease-in-out"/>
+
+<circle cx="425" cy="162" r="120" fill="url(#bh)"/>
+<ellipse class="r2" cx="425" cy="162" rx="105" ry="26" fill="none" stroke="#7c3aed" stroke-width="1" opacity="0.4"/>
+<ellipse class="r1" cx="425" cy="162" rx="84" ry="21" fill="none" stroke="#ff6ef7" stroke-width="2.5" opacity="0.8"/>
+<ellipse cx="425" cy="162" rx="66" ry="16" fill="none" stroke="#ff6ef7" stroke-width="0.8" opacity="0.3"/>
+<circle class="pulse" cx="425" cy="162" r="46" fill="none" stroke="#7c3aed" stroke-width="1.5"/>
+<line class="jet" x1="425" y1="118" x2="425" y2="36" stroke="#c084fc" stroke-width="3.5" stroke-linecap="round"/>
+<line class="jet" x1="425" y1="206" x2="425" y2="288" stroke="#c084fc" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="425" y1="118" x2="425" y2="44" stroke="#ff6ef7" stroke-width="1" opacity="0.3" stroke-linecap="round"/>
+<line x1="425" y1="206" x2="425" y2="280" stroke="#ff6ef7" stroke-width="1" opacity="0.3" stroke-linecap="round"/>
+<circle cx="425" cy="162" r="43" fill="#000"/>
+<circle cx="425" cy="162" r="38" fill="#020008"/>
+<circle cx="425" cy="162" r="44" fill="none" stroke="#ff6ef7" stroke-width="1.4" opacity="0.95"/>
+<circle cx="560.0" cy="162.0" r="3.5" fill="#22d3ee" opacity="0.9"/>
+<text x="568.0" y="180.0" text-anchor="start" font-family="monospace" font-size="10" fill="#22d3ee">Python</text>
+<circle cx="544.7" cy="180.5" r="3.5" fill="#22d3ee" opacity="0.9"/>
+<text x="552.7" y="198.5" text-anchor="start" font-family="monospace" font-size="10" fill="#22d3ee">TypeScript</text>
+<circle cx="502.4" cy="194.8" r="3.5" fill="#22d3ee" opacity="0.9"/>
+<text x="510.4" y="212.8" text-anchor="start" font-family="monospace" font-size="10" fill="#22d3ee">Rust</text>
+<circle cx="442.6" cy="201.7" r="3.5" fill="#22d3ee" opacity="0.9"/>
+<text x="442.6" y="219.7" text-anchor="middle" font-family="monospace" font-size="10" fill="#22d3ee">SQL</text>
+<circle cx="357.5" cy="196.6" r="3.5" fill="#a78bfa" opacity="0.9"/>
+<text x="349.5" y="214.6" text-anchor="end" font-family="monospace" font-size="10" fill="#a78bfa">AWS</text>
+<circle cx="311.1" cy="183.5" r="3.5" fill="#a78bfa" opacity="0.9"/>
+<text x="303.1" y="201.5" text-anchor="end" font-family="monospace" font-size="10" fill="#a78bfa">Docker</text>
+<circle cx="290.5" cy="165.5" r="3.5" fill="#a78bfa" opacity="0.9"/>
+<text x="282.5" y="183.5" text-anchor="end" font-family="monospace" font-size="10" fill="#a78bfa">Terraform</text>
+<circle cx="300.3" cy="146.7" r="3.5" fill="#a78bfa" opacity="0.9"/>
+<text x="292.3" y="136.7" text-anchor="end" font-family="monospace" font-size="10" fill="#a78bfa">Linux</text>
+<circle cx="378.8" cy="124.4" r="3.5" fill="#fbbf24" opacity="0.9"/>
+<text x="370.8" y="114.4" text-anchor="end" font-family="monospace" font-size="10" fill="#fbbf24">FastAPI</text>
+<circle cx="442.6" cy="122.3" r="3.5" fill="#fbbf24" opacity="0.9"/>
+<text x="442.6" y="112.3" text-anchor="middle" font-family="monospace" font-size="10" fill="#fbbf24">React</text>
+<circle cx="502.4" cy="129.2" r="3.5" fill="#fbbf24" opacity="0.9"/>
+<text x="510.4" y="119.2" text-anchor="start" font-family="monospace" font-size="10" fill="#fbbf24">PySpark</text>
+<circle cx="544.7" cy="143.5" r="3.5" fill="#fbbf24" opacity="0.9"/>
+<text x="552.7" y="133.5" text-anchor="start" font-family="monospace" font-size="10" fill="#fbbf24">PostgreSQL</text>
+<text x="425" y="32" text-anchor="middle" font-family="monospace" font-size="19" font-weight="bold" fill="#e2d9f3" letter-spacing="3">Demo User</text>
+<text x="425" y="54" text-anchor="middle" font-family="monospace" font-size="11" fill="#9f7edd" letter-spacing="2">AI Engineer</text>
+<text x="425" y="297" text-anchor="middle" font-family="monospace" font-size="10" fill="#9f7edd" opacity="0.6" font-style="italic">Building things that matter.</text>
+</svg>
